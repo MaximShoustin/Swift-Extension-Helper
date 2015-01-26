@@ -47,7 +47,7 @@ Can be used in applications with operating systems:
 
 ##Usage
 
-This section runs through some sample usage of SwiftData.
+This section runs through some sample usage of Extensions.
 
 TBD
 
