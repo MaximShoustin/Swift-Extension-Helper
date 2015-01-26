@@ -51,7 +51,14 @@ This section runs through some sample usage of SwiftData.
 
 TBD
 
+- `contains(find: String)`
 
+```swift
+var value = "Hello world"
+
+println(value.contains("Hello")) // true
+println(value.contains("bo"))    // false
+```swift
 
 ##Contact
 
