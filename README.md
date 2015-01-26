@@ -58,7 +58,16 @@ var value = "Hello world"
 
 println(value.contains("Hello")) // true
 println(value.contains("bo"))    // false
+```
+
+- `removeCharsFromEnd(count:Int)`
+
 ```swift
+var str_1 = "Maxim"
+println("output: \(str_1.removeCharsFromEnd(1))") // "Maxi"
+println("output: \(str_1.removeCharsFromEnd(3))") // "Ma"
+println("output: \(str_1.removeCharsFromEnd(8))") // ""
+```
 
 ##Contact
 
